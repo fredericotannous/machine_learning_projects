@@ -1,3 +1,3 @@
-# Demo 2
+# Bulding Machine Learning Projects
 
-Some description.
+In this repository, you will find several ML projects with the usage of multiple algorithms.
